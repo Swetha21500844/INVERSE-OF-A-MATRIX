@@ -18,7 +18,8 @@ A=np.array([[2,1,1],[1,1,1],[1,-1,2]])
 invs=np.linalg.inv(A)
 print(invs)
 ```
-## Output:![OUTPUT](/inverseoutput.PNG)
+## Output:![inverse output](https://user-images.githubusercontent.com/94228215/144613009-ff7bdb9a-8318-4037-9dc6-f8bc10f4b2c0.PNG)
+
 ## Result:
 
 Thus the inverse of given matrix is successfully solved using python program
